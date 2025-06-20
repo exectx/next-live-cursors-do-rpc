@@ -8,7 +8,7 @@ Run `wrangler dev`:
 npm run dev
 ```
 
-Update `.dev.local`:
+Update `.env.local`:
 ```txt
 NEXT_PUBLIC_WS_HOST=localhost:8787
 ```
